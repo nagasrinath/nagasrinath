@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello, I'm Srinath 👋
 
-<!--
-**nagasrinath/nagasrinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Dreamer by day. Daydreamer by night.
 
-Here are some ideas to get you started:
+Building infrastructure for AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **Homcar AI** —
+the secure execution runtime for AI-powered infrastructure.
+
+→ https://github.com/homcar-ai
+
+---
+
+### Things I enjoy
+
+- Linux
+- Distributed Systems
+- Self-hosting
+- Docker & Kubernetes
+- AI Agents
+- Open Source
+
+![](https://streak-stats.demolab.com/?user=nagasrinath&theme=dark&hide_border=true)
