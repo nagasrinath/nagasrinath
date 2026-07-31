@@ -2,8 +2,6 @@
 
 > Dreamer by day. Daydreamer by night.
 
-Building infrastructure for AI agents.
-
 Currently building **Homcar AI** —
 the secure execution runtime for AI-powered infrastructure.
 
