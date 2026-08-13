@@ -1,7 +1,5 @@
 ## Hello, I'm Srinath 👋
 
----
-
 ### Things I enjoy
 
 - Linux
@@ -9,6 +7,6 @@
 - Self-hosting
 - Docker & Kubernetes
 - AI Agents
-- Open Source
+- OSS
 
 ![](https://streak-stats.demolab.com/?user=nagasrinath&theme=dark&hide_border=true)
