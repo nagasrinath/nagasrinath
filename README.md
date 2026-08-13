@@ -1,10 +1,5 @@
 ## Hello, I'm Srinath 👋
 
-Currently building **Homcar AI** —
-the secure execution runtime for AI-powered infrastructure.
-
-→ https://github.com/homcar-ai
-
 ---
 
 ### Things I enjoy
