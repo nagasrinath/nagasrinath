@@ -1,4 +1,4 @@
-## Hello, I'm Srinath 👋
+## Hello 👋
 
 ### Things I enjoy
 
